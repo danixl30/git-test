@@ -9,7 +9,7 @@
 <body>
     <h1>Main page test login</h1>
     <h2>Please Login or SignUp</h2>
-    <p></p>
+    <p>Test git</p>
     <a href="./login.php">Login</a><br>
     <a href="./signup.php">SignUp</a>
 </body>
